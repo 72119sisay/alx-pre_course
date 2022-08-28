@@ -1,2 +1,1 @@
-sisays first practicing >README.md
-echo sisays first practicing
+my first practice of readme
